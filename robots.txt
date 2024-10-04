@@ -1,0 +1,7 @@
+User-Agent: *
+
+Disallow:
+
+
+Sitemap: http://pinapaz.kchobby.xyz/sitemap.xml
+Host: pinapaz.kchobby.xyz
